@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SaaS Architecture Forge"
+  short_description: "Forge production-ready AI SaaS architecture"
+  default_prompt: "Use $ai-saas-architecture-forge to turn this product idea or repository into a production-ready architecture blueprint."
